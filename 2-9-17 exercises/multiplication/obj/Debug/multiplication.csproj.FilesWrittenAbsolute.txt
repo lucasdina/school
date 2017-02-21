@@ -1,0 +1,6 @@
+/Users/ejewbod/Projects/2-9-17 exercises/multiplication/obj/Debug/.NETFramework,Version=v4.5.2.AssemblyAttribute.cs
+/Users/ejewbod/Projects/2-9-17 exercises/multiplication/bin/Debug/multiplication.exe.config
+/Users/ejewbod/Projects/2-9-17 exercises/multiplication/bin/Debug/multiplication.exe.mdb
+/Users/ejewbod/Projects/2-9-17 exercises/multiplication/bin/Debug/multiplication.exe
+/Users/ejewbod/Projects/2-9-17 exercises/multiplication/obj/Debug/multiplication.exe
+/Users/ejewbod/Projects/2-9-17 exercises/multiplication/obj/Debug/multiplication.exe.mdb

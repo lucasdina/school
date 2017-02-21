@@ -1,0 +1,6 @@
+/Users/ejewbod/git/Projects/2-14-17 exercises/intergerFacts/obj/Debug/.NETFramework,Version=v4.5.2.AssemblyAttribute.cs
+/Users/ejewbod/git/Projects/2-14-17 exercises/intergerFacts/bin/Debug/intergerFacts.exe.config
+/Users/ejewbod/git/Projects/2-14-17 exercises/intergerFacts/bin/Debug/intergerFacts.exe.mdb
+/Users/ejewbod/git/Projects/2-14-17 exercises/intergerFacts/bin/Debug/intergerFacts.exe
+/Users/ejewbod/git/Projects/2-14-17 exercises/intergerFacts/obj/Debug/intergerFacts.exe
+/Users/ejewbod/git/Projects/2-14-17 exercises/intergerFacts/obj/Debug/intergerFacts.exe.mdb

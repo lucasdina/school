@@ -1,0 +1,6 @@
+/Users/ejewbod/Projects/2-9-17 exercises/fortuneTeller/obj/Debug/.NETFramework,Version=v4.5.2.AssemblyAttribute.cs
+/Users/ejewbod/Projects/2-9-17 exercises/fortuneTeller/bin/Debug/fortuneTeller.exe.config
+/Users/ejewbod/Projects/2-9-17 exercises/fortuneTeller/bin/Debug/fortuneTeller.exe.mdb
+/Users/ejewbod/Projects/2-9-17 exercises/fortuneTeller/bin/Debug/fortuneTeller.exe
+/Users/ejewbod/Projects/2-9-17 exercises/fortuneTeller/obj/Debug/fortuneTeller.exe
+/Users/ejewbod/Projects/2-9-17 exercises/fortuneTeller/obj/Debug/fortuneTeller.exe.mdb

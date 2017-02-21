@@ -1,0 +1,6 @@
+/Users/ejewbod/Projects/1-18-17 ecercises/BigLetter/BigLetter/obj/Debug/.NETFramework,Version=v4.5.2.AssemblyAttribute.cs
+/Users/ejewbod/Projects/1-18-17 ecercises/BigLetter/BigLetter/bin/Debug/BigLetter.exe.config
+/Users/ejewbod/Projects/1-18-17 ecercises/BigLetter/BigLetter/bin/Debug/BigLetter.exe.mdb
+/Users/ejewbod/Projects/1-18-17 ecercises/BigLetter/BigLetter/bin/Debug/BigLetter.exe
+/Users/ejewbod/Projects/1-18-17 ecercises/BigLetter/BigLetter/obj/Debug/BigLetter.exe
+/Users/ejewbod/Projects/1-18-17 ecercises/BigLetter/BigLetter/obj/Debug/BigLetter.exe.mdb

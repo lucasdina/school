@@ -1,0 +1,6 @@
+/Users/ejewbod/Projects/2-8-17 exercises/debug4/obj/Debug/.NETFramework,Version=v4.5.2.AssemblyAttribute.cs
+/Users/ejewbod/Projects/2-8-17 exercises/debug4/bin/Debug/debug4.exe.config
+/Users/ejewbod/Projects/2-8-17 exercises/debug4/bin/Debug/debug4.exe.mdb
+/Users/ejewbod/Projects/2-8-17 exercises/debug4/bin/Debug/debug4.exe
+/Users/ejewbod/Projects/2-8-17 exercises/debug4/obj/Debug/debug4.exe
+/Users/ejewbod/Projects/2-8-17 exercises/debug4/obj/Debug/debug4.exe.mdb
